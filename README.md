@@ -37,5 +37,5 @@ comptia+ security
 
 https://github.com/0x4D31/awesome-oscp
 
-
+https://www.youtube.com/watch?v=xLI7OialKk4
 
