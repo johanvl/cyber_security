@@ -10,3 +10,32 @@ OSSTMM : Open Source Security Testing Methodology Manual = http://www.isecom.org
 WAHH: Web Application Hacker's Handbook = https://portswigger.net/web-security/web-application-hackers-handbook
 
 OWASP: Open Web Application Security Project = 
+
+
+
+
+
+
+CISSP : Certified Information Systems Security Professional = https://en.wikipedia.org/wiki/Certified_Information_Systems_Security_Professional
+
+CISA : Certified Information Systems Auditor
+
+CISM : Certified Information Security Manager
+
+
+hacker techniques tools and incident handling 3rd edition pdf
+
+DPO
+
+comptia+ security
+          Network
+          owasp zap
+          disc model
+          GPDR
+          AVG
+          
+
+https://github.com/0x4D31/awesome-oscp
+
+
+
